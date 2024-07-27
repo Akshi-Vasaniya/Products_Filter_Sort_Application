@@ -30,7 +30,7 @@ This Spring Boot project demonstrates how to create a RESTful API for managing a
 
 # Getting Started
 To run the application:
-1. Clone the repository
+1. Fork and Clone the repository
    ```
    https://github.com/Akshi-Vasaniya/Products_Filter_Sort_Application.git
    ```
@@ -38,9 +38,9 @@ To run the application:
 3. Configure the MongoDB connection in application.properties
    ```
    spring.data.mongodb.host=[hostname]
-    spring.data.mongodb.port=[portnumber]
-    spring.data.mongodb.database=[DBname]
-    spring.data.mongodb.uri=mongodb://[hostname]:[portnumber]/[DBname]
+   spring.data.mongodb.port=[portnumber]
+   spring.data.mongodb.database=[DBname]
+   spring.data.mongodb.uri=mongodb://[hostname]:[portnumber]/[DBname]
    ```
 4. Build the project
    ```
